@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/audio-player/static/css/main.9ac0b8df.css",
+    "main.js": "/audio-player/static/js/main.545c6e06.js",
+    "static/media/50-tobylane.mp3": "/audio-player/static/media/50-tobylane.32fcd67be5228330ce98.mp3",
+    "static/media/iwonder-dreamheaven.mp3": "/audio-player/static/media/iwonder-dreamheaven.129f08e2c26bc1decbfe.mp3",
+    "static/media/cali-wataboi.mp3": "/audio-player/static/media/cali-wataboi.0eb76f753cfc4e2c08cb.mp3",
+    "static/media/artwork.jpeg": "/audio-player/static/media/artwork.aac5df06f66f7e7265f8.jpeg",
+    "static/media/artwork3.jpeg": "/audio-player/static/media/artwork3.e29c1b2315925af3711e.jpeg",
+    "static/media/pause.svg": "/audio-player/static/media/pause.6d72bb709ff2f64924bbacda4a237460.svg",
+    "static/media/prev.svg": "/audio-player/static/media/prev.0b3cf3c27186335c6a4ab74bb6356fd9.svg",
+    "static/media/next.svg": "/audio-player/static/media/next.7c9d7c79bc1bddbc64b7cda0cad6f96b.svg",
+    "index.html": "/audio-player/index.html",
+    "static/media/play.svg": "/audio-player/static/media/play.ae28f2f8ed43f26bbecc733fd80f370c.svg",
+    "main.9ac0b8df.css.map": "/audio-player/static/css/main.9ac0b8df.css.map",
+    "main.545c6e06.js.map": "/audio-player/static/js/main.545c6e06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac0b8df.css",
+    "static/js/main.545c6e06.js"
+  ]
+}
